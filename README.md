@@ -1,6 +1,6 @@
 ### Hey There 👋!
 
-I'm Joel, a full-stack developer currently based in 🇸🇬 Singapore. <br />
+I'm Joel, a full-stack developer currently based in Singapore 🇸🇬. <br />
 I have a huge passion for building fun, useable web applications. <br />
 In my free time, I work on [Angular Recipes](https://github.com/JoelLau/angular-recipes/) - a site that hopes to make Angular more approachable.
 
