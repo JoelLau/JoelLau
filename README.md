@@ -1,7 +1,7 @@
 ### Hey There 👋!
 
 I'm Joel, a full-stack developer currently based in Singapore 🇸🇬. <br />
-I have a huge passion for building usable, maintainable applications. <br />\
+I have a huge passion for building usable, maintainable applications. <br />
 
 #### Current Stack:
 
