@@ -26,6 +26,7 @@ I have a huge passion for building usable, maintainable applications. <br />
 #### Find me on:
 
 <a href="https://www.linkedin.com/in/joel-lau/" style="margin-top: 1.5em"><img alt="Joel's LinkedIn" width="22px" src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" /></a>
+<a href="https://github.com/JoelLau/" style="margin-top: 1.5em"><img alt="Joel's LinkedIn" width="22px" src="https://github.com/fluidicon.png" /></a>
 
 <!--
 **JoelLau/JoelLau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
